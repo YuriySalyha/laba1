@@ -1,0 +1,22 @@
+#First task
+a = float(input("First number"))
+b = float(input("Second number"))
+s = input("Sign (+,-,/,*):")
+if s == "+":
+    print(a+b)
+if s == "-":
+    print(a-b)
+if s == "*":
+    print(a*b)
+'''
+
+
+#Second task
+# z=input("")
+# for q in z:
+#     print(2*q, end="")
+
+
+# Third task
+# s=input()[::-1]
+# print(s)
